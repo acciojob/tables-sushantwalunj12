@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#total{
+    text-align: right;
+    font-weight: bold;
+}
+.myTable{
+    width: 50%;
+}
